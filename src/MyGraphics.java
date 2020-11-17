@@ -1,6 +1,3 @@
-//CMPT 275 Assignment 2
-// Author: Chin Ho Wan 301308171
-package A2;
 
 import java.awt.*;
 import java.awt.geom.Rectangle2D;
